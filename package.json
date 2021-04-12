@@ -1,0 +1,12 @@
+{
+  "name": "zuri-task-4",
+  "version": "1.0.0",
+  "description": "Learning how node file system works",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Etiene Essenoh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
